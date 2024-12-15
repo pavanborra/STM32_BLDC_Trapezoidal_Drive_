@@ -1,0 +1,1 @@
+# STM32_BLDC_Trapezoidal_Drive_
